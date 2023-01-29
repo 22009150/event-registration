@@ -198,7 +198,8 @@ background: #CDC1BF;
 ```
 
 ## OUTPUT:
-![OUTPUT](./output.png)
+![output](https://user-images.githubusercontent.com/118708624/215304982-d4a20545-f9bd-44b3-9473-afd35f46c0e5.png)
+
 
 ## Result:
-
+The program to design,develop and deploy a web application for event registration is completed successfully.
